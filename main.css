@@ -1,0 +1,36 @@
+p {
+	font-size: 20px;
+}
+
+img{
+	display: block;
+	margin: 0px;
+	border: 10px solid #ce9237;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+}
+
+header {
+    color: blue;
+    background-color: lightyellow;
+    font-family: sans-serif;
+}
+
+header a {
+    text-decoration: none;
+    color: orange;
+}
+
+header a:hover {
+    border: 1px solid black;
+}
+
+footer{
+	position: sticky;
+	bottom: 3%;
+	background-color: orange;
+}
+
